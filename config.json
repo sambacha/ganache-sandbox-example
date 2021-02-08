@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "gnosis-cpk": {},
+    "gnosis-dex": {},
+    "gnosis-safe": {},
+    "mock-tokens": {
+      "tokens": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  }
+}
